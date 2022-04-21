@@ -1,0 +1,13 @@
+.world-left-list {
+    height: auto;
+    list-style-type: none;
+    display: flex;
+    justify-content: stretch;
+    flex-direction: column;
+    margin: 0;
+    margin-bottom: 17px;
+    padding-left: 0;
+}
+.world-left-item {
+    margin-bottom: 7px;
+}
